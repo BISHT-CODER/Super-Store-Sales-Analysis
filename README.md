@@ -43,7 +43,7 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
    Overall , the dashoboard provides actionable insights into sales growth drivers , profitability risks, and 
    opportunites for strategic optimization across categories, regions, and customer segments.
 
-   https://github.com/BISHT-CODER/Super-Store-Sales-Analysis/blob/e37de221b04b61fad9cc428ab8a8129dc4371edc/Screenshot%202026-01-21%20151544.png
+   
 
 ### Sales Trend
    • Total Sales increased steadily from 484K in 2014 to 733K in 2017, representing strong year-over-year revenue growth.
