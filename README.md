@@ -78,3 +78,12 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
   • Leverage the Consumer segment: Focus marketing and loyalty efforts on the Consumer segment, the most consistent profit contributor.
   
   • Capitalize on seasonality: Align promotions and inventory planning with Q3–Q4 peak demand to maximize sales while protecting margins.
+
+  ## 📷 Dashboard Preview
+
+### Sales Overview
+![Sales Overview](Screenshot 2026-01-21 150138.png)
+
+### Trend Analytics
+![Trend Analytics](Screenshot 2026-01-21 151544.png)
+
