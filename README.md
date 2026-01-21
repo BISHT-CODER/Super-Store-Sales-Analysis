@@ -43,6 +43,8 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
    Overall , the dashoboard provides actionable insights into sales growth drivers , profitability risks, and 
    opportunites for strategic optimization across categories, regions, and customer segments.
 
+   ![superstore sales overview](SalesOverview.png)
+
    
 
 ### Sales Trend
