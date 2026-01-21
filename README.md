@@ -73,6 +73,7 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
      to overall profitability.
    
    • High discount levels had a negative impact on profit, and in some cases led to loss, even when sales are high.
+     ![High Discount impact](High_discount_impact.png)
 
 ##  Reccomendations :
   • Control high discounting: Limit discounts above 20%, as they consistently reduce profitability despite higher sales volumes.
