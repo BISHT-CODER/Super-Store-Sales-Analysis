@@ -58,6 +58,7 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
    • Monthly sales patterns indicate clear seasonality, with stronger performance during the second half of the year (Q3-Q4).
    
    • While sales increased consistently,profit growth remained dependent on discount levels, emphasizing the inportance of controlled proving strategies.
+   ![Sales Trend Dashboard](trend_Analytics.png)
 
 ### Profit Trend 
    • Overall, profit increased steadily from 2014 to 2017, showing that the business was not only selling more but also earning better over time.
