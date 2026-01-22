@@ -1,6 +1,6 @@
 # Project Background
 The Super Store dataset represents transactional sales data from 2014 to 2017 across multiple product categories,
-customer segments, regions, and discount levels.
+ regions, and discount levels.
 
 The business wanted to understand sales performance, profitability trends,
 and the impact of discounts to support data-driven decision-making.
@@ -37,21 +37,20 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
    Total Profit reached 286.4K with a 12.47% margin, showing contributing over 50% of total profit,
    while the West Region led regional profitability.
 
-   Analysis revealed that discounts abouve 20% consistently reduced profit. with the highest 
+   Analysis revealed that discounts above 20% consistently reduced profit. with the highest 
    discount band generating losses , highlighting the importance of controlled discount strategies.
 
    Overall , the dashoboard provides actionable insights into sales growth drivers , profitability risks, and 
-   opportunites for strategic optimization across categories, regions, and customer segments.
+   opportunites for strategic optimization across categories, and  regions.
 
    ![Executive Summary Dashboard](Sales_profit_overview.png)
-
-
-   
 
 ### Sales Trend
    • Total Sales increased steadily from 484K in 2014 to 733K in 2017, representing strong year-over-year revenue growth.
    
    • The most significant sales acceleration occurred between 2016 to 2017, supported by a parallel increase in order volume.
+
+   • Highest sales record in 2014 (Q1) March .
    
    • Order volume closely tracked sales performance across all years, confirming that revenue growth was primarily driven by higher demand rater than price increases.
    
@@ -73,7 +72,7 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
      to overall profitability.
    
    • High discount levels had a negative impact on profit, and in some cases led to loss, even when sales are high.
-     ![High Discount impact](High_discount_impact.png)
+     ![High Discount impact](High_discount_impact.png)  
 
 ##  Reccomendations :
   • Control high discounting: Limit discounts above 20%, as they consistently reduce profitability despite higher sales volumes.
