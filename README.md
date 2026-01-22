@@ -10,7 +10,7 @@ and understand sales, profit, discount patterns, and seasonality, which guided m
 
 Key EDA findings  informed the identification of discount-driven profit erosion and seasonal demand patterns.
 
-## Project Objectives
+# Project Objectives
 • Analyze sales and profit performance overtime.
 
 • Identify profitable and loss - making regions & categories .
@@ -29,7 +29,7 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
 #### Regional Performance Analysis 
   Comparison of sales and profit across regions to identify high-performing and underperforming areas. 
 
-## Executive Summary
+ # Executive Summary
    ### Overview of findings
    From 2014 to 2017 , Super Store demonstrated  strong business growth , with total sales  increasing by 51.41% and orders by 66.18%,
    driven by rising customer demand and improved order vollume.
@@ -52,7 +52,7 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
 
    • Highest sales record in 2014 (Q1) March .
    
-   • Order volume closely tracked sales performance across all years, confirming that revenue growth was primarily driven by higher demand rater than price increases.
+   • Order volume closely tracked sales performance across all years, confirming that revenue growth was primarily driven by higher demand later than price increases.
    
    • Monthly sales patterns indicate clear seasonality, with stronger performance during the second half of the year (Q3-Q4).
    
@@ -74,7 +74,7 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
    • High discount levels had a negative impact on profit, and in some cases led to loss, even when sales are high.
      ![High Discount impact](High_discount_impact.png)  
 
-##  Reccomendations :
+  # Reccomendations :
   • Control high discounting: Limit discounts above 20%, as they consistently reduce profitability despite higher sales volumes.
   
   • Prioritize high-margin categories: Expand and promote Technology products, which contribute over 50% of total profit.
