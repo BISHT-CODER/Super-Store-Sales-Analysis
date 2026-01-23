@@ -49,8 +49,6 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
    • Total Sales increased steadily from 484K in 2014 to 733K in 2017, representing strong year-over-year revenue growth.
    
    • The most significant sales acceleration occurred between 2016 to 2017, supported by a parallel increase in order volume.
-
-   • Highest sales record in 2014 (Q1) March .
    
    • Order volume closely tracked sales performance across all years, confirming that revenue growth was primarily driven by higher demand later than price increases.
    
