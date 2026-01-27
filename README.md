@@ -52,7 +52,7 @@ The Excel workbook used for data exploration and preparationcan be downloaded [h
    • Stronger sales momentum was observed during the second half of the year (Q3–Q4),                 reflecting seasonal demand patterns.
    
    • While sales increased consistently,profit growth remained dependent on discount levels,          emphasizing the inportance of controlled proving strategies.
-   
+     
 ### Profit Trend 
    • Profitability improved over time but showed higher volatility than sales.
    
