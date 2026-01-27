@@ -5,7 +5,7 @@ Despite consistent sales growth, the business faces challenges related to profit
 
 This project analyzes and synthesizes Super Store’s historical data using Power BI to uncover key performance trends, identify profitability drivers and risks, and understand customer purchasing behavior. The analysis is designed to support data-driven decision-making and strategic optimization.
 
-Insights and recommendations are provided across the following key areas:
+### Insights and recommendations are provided across the following key areas:
 
  •Sales Trends Analysis: Evaluation of historical sales patterns, order growth, seasonality, and average order value (AOV).
 
@@ -16,15 +16,21 @@ Insights and recommendations are provided across the following key areas:
  •Regional Performance Analysis: Comparison of sales and profit across regions to identify high-performing and underperforming areas.
 
  •Customer Behavior Analysis: Analysis of customer retention, repeat purchase behavior, purchase frequency, and customer segmentation.
-  An interactive powerBI dashboard can be downloaded [here](Super_Store_report.pbix).
-  The Excel workbook used for data exploration and preparationcan be downloaded [here](Super_Store_Analysis.xlsx).
+
+An interactive powerBI dashboard can be downloaded [here](Super_Store_report.pbix).
+
+The Excel workbook used for data exploration and preparationcan be downloaded [here](Super_Store_Analysis.xlsx).
 
 
 # Project Objectives
 • Analyze overall sales and order growth over time.
+
 • Evaluate profitability trends and margin performance.
+
 • Assess the impact of discounting on profit.
+
 • Identify high-performing and underperforming categories and regions.
+
 • Understand customer loyalty, purchase frequency  and segmentation.
 
 
@@ -42,19 +48,24 @@ Insights and recommendations are provided across the following key areas:
 
 ### Sales Trend
    • Sales increased steadily from 2014 to 2017, indicating consistent demand growth.
+   
    • Stronger sales momentum was observed during the second half of the year (Q3–Q4),                 reflecting seasonal demand patterns.
+   
    • While sales increased consistently,profit growth remained dependent on discount levels,          emphasizing the inportance of controlled proving strategies.
+   
 ### Profit Trend 
    • Profitability improved over time but showed higher volatility than sales.
+   
    • High discount levels had a negative impact on profit, and in some cases led to loss, even when sales are high.
      ![High Discount impact](High_discount_impact.png).  
 ### Trend Analytics Insight   
-   • Sales growth did not always translate into profit growth, highlighing the importance of margin and discount control.
+   • Sales growth did not always translate into profit growth, highlighting the importance of margin and discount control.
 ### Customer Behaviour 
    • The customer base exhibits extremely high repeat purchasing behavior , indicating strong customer retention.
    • Sales are primarily driven by high-frequency buyers, with the Consumer segment representing the largest share of customers.
 ### Key Takeaways
-   • Growth is demand - driven byt profitability is sensitive to discounting .
+   • Growth is demand - driven by profitability is sensitive to discounting .
+   
    • Loyal, repeat customers are a critical driver of overall performance.
    
   # Strategic Recommendations :
