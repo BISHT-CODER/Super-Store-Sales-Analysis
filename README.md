@@ -69,15 +69,20 @@ The Excel workbook used for data exploration and preparationcan be downloaded [h
    • Loyal, repeat customers are a critical driver of overall performance.
    
   # Strategic Recommendations :
-  • Control high discounting: Limit discounts above 20%, as they consistently reduce profitability despite higher sales volumes.
-  
-  • Prioritize high-margin categories: Expand and promote Technology products, which contribute over 50% of total profit.
-  
-  • Improve underperforming regions: Apply targeted pricing and localized promotions in the Central and South regions to boost profitability.
-  
-  • Leverage the Consumer segment: Focus marketing and loyalty efforts on the Consumer segment, the most consistent profit contributor.
-  
-  • Capitalize on seasonality: Align promotions and inventory planning with Q3–Q4 peak demand to maximize sales while protecting margins.
+   Based on the insights uncovered from sales, profitability, and customer behavior analysis, the following recommendations are proposed:
 
-  • Customer Behaviour Focus: Strength customer retention stragegies by targeting high-frequency buyers, who contribute disproportionately to total sales.
- 
+#### •Control excessive discounting to protect margins:
+Analysis shows that discount levels above 20% consistently result in profit erosion and, in some cases, losses despite higher sales volumes. Implement stricter discount thresholds and approval controls to ensure revenue growth remains profitable.
+
+#### •Prioritize high-margin product categories to drive sustainable profit:
+Technology products contribute over 50% of total profit, making them the most reliable profit driver. Expanding assortments, targeted promotions, and cross-selling strategies within this category can significantly improve overall profitability.
+
+#### •Improve underperforming regions through localized strategies:
+While the West and East regions lead in profitability, the Central and South regions underperform. Applying region-specific pricing, targeted promotions, and optimized logistics can help close the profitability gap.
+
+#### •Leverage strong customer retention and repeat purchasing behavior:
+With nearly all customers being repeat buyers, the business should focus on retention-led growth strategies, such as personalized offers, reorder reminders, and loyalty-based incentives, rather than aggressive customer acquisition discounts.
+
+#### •Capitalize on seasonal demand peaks to maximize returns:
+Sales and profit trends indicate stronger performance during Q3–Q4. Aligning inventory planning, promotional campaigns, and staffing strategies with peak seasonal demand can maximize revenue while maintaining healthy margins.
+  
