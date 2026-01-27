@@ -1,78 +1,63 @@
 # Project Background
-The Super Store dataset represents transactional sales data from 2014 to 2017 across multiple product categories,
- regions, and discount levels.
+Super Store is retail business operating across multiple regions , offering a wide range of products including Technology, Office Supplies, and Furniture. The company records detailed transactional data related to sales, profits, discounts, customer segments, and regional performance from 2014 to 2017.
 
-The business wanted to understand sales performance, profitability trends,
-and the impact of discounts to support data-driven decision-making.
+Despite consistent sales growth, the business faces challenges related to profitability, discount strategies, and uneven regional performance. Large volumes of transactional data existed, but had not been fully leveraged to derive actionable business insights.
 
-Before building the dashboards, exploratory data analysis (EDA) was performed to validate data quality
-and understand sales, profit, discount patterns, and seasonality, which guided metric selection and visualization design.
+This project analyzes and synthesizes Super Store’s historical data using Power BI to uncover key performance trends, identify profitability drivers and risks, and understand customer purchasing behavior. The analysis is designed to support data-driven decision-making and strategic optimization.
 
-Key EDA findings  informed the identification of discount-driven profit erosion and seasonal demand patterns.
+Insights and recommendations are provided across the following key areas:
+
+ •Sales Trends Analysis: Evaluation of historical sales patterns, order growth, seasonality, and average order value (AOV).
+
+ •Profitability & Margin Analysis: Assessment of profit trends, margins, and category-level performance to measure business efficiency.
+
+ •Discount Impact Analysis: Examination of how different discount levels affect profitability and identification of loss-making discount bands.
+
+ •Regional Performance Analysis: Comparison of sales and profit across regions to identify high-performing and underperforming areas.
+
+ •Customer Behavior Analysis: Analysis of customer retention, repeat purchase behavior, purchase frequency, and customer segmentation.
+  An interactive powerBI dashboard can be downloaded [here](Super_Store_report.pbix).
+  The Excel workbook used for data exploration and preparationcan be downloaded [here](Super_Store_Analysis.xlsx).
+
 
 # Project Objectives
-• Analyze sales and profit performance overtime.
+• Analyze overall sales and order growth over time.
+• Evaluate profitability trends and margin performance.
+• Assess the impact of discounting on profit.
+• Identify high-performing and underperforming categories and regions.
+• Understand customer loyalty, purchase frequency  and segmentation.
 
-• Identify profitable and loss - making regions & categories .
-
-• Understand discount impact on profitability.
-
-• Track profitability trends and margins.
-
-## Key Areas of analysis
-#### Sales Performance Analysis 
-  Evaluation of overall sales trends, year-over-year growth, and seasonal patterns.
-#### Profitability & Margin Analysis 
-  Analysis of profit trends and profit margins to  assess business efficency and sustainability.
-#### Discount Impact Analysis 
-  Examination of how different discount levels affect profitability and identify loss_making discount bands.
-#### Regional Performance Analysis 
-  Comparison of sales and profit across regions to identify high-performing and underperforming areas. 
 
  # Executive Summary
    ### Overview of findings
-   From 2014 to 2017 , Super Store demonstrated  strong business growth , with total sales  increasing by 51.41% and orders by 66.18%,
-   driven by rising customer demand and improved order vollume.
+   The business experienced consistent sales and order growth from 2014 to 2017, driven by          increasing customer demand.
 
-   Total Profit reached 286.4K with a 12.47% margin, showing contributing over 50% of total profit,
-   while the West Region led regional profitability.
+   Profitability varied significantly across categories and regions, with Technology and the        West region emerging as key profit contributors.
+   
+   Customer analysis revealed extremely high repeat purchasing behavior, indicating strong          customer retention.
 
    Analysis revealed that discounts above 20% consistently reduced profit. with the highest 
-   discount band generating losses , highlighting the importance of controlled discount strategies.
-
-   Overall , the dashoboard provides actionable insights into sales growth drivers , profitability risks, and 
-   opportunites for strategic optimization across categories, and  regions.
-
+   discount band generating losses , highlighting the importance of controlled discount             strategies.
    ![Executive Summary Dashboard](Sales_profit_overview.png)
 
 ### Sales Trend
-   • Total Sales increased steadily from 484K in 2014 to 733K in 2017, representing strong year-over-year revenue growth.
-   
-   • The most significant sales acceleration occurred between 2016 to 2017, supported by a parallel increase in order volume.
-   
-   • Order volume closely tracked sales performance across all years, confirming that revenue growth was primarily driven by higher demand later than price increases.
-   
-   • Monthly sales patterns indicate clear seasonality, with stronger performance during the second half of the year (Q3-Q4).
-   
-   • While sales increased consistently,profit growth remained dependent on discount levels, emphasizing the inportance of controlled proving strategies.
-   
-
+   • Sales increased steadily from 2014 to 2017, indicating consistent demand growth.
+   • Stronger sales momentum was observed during the second half of the year (Q3–Q4),                 reflecting seasonal demand patterns.
+   • While sales increased consistently,profit growth remained dependent on discount levels,          emphasizing the inportance of controlled proving strategies.
 ### Profit Trend 
-   • Overall, profit increased steadily from 2014 to 2017, showing that the business was not only selling more but also earning better over time.
-   
-   • Profit growth became stronger in the later years, especially during 2016 and 2017, as  
-     sales volumes increased and costs were ma
-   
-   • Monthly profit patterns show clear seasonality, with higher profits generally seen  
-     toward the end of the year , when customer demand was higher.
-   
-   • The Technology category consistently generated the highest profit, making it the most reliable contributor
-     to overall profitability.
-   
+   • Profitability improved over time but showed higher volatility than sales.
    • High discount levels had a negative impact on profit, and in some cases led to loss, even when sales are high.
-     ![High Discount impact](High_discount_impact.png)  
-
-  # Reccomendations :
+     ![High Discount impact](High_discount_impact.png).  
+### Trend Analytics Insight   
+   • Sales growth did not always translate into profit growth, highlighing the importance of margin and discount control.
+### Customer Behaviour 
+   • The customer base exhibits extremely high repeat purchasing behavior , indicating strong customer retention.
+   • Sales are primarily driven by high-frequency buyers, with the Consumer segment representing the largest share of customers.
+### Key Takeaways
+   • Growth is demand - driven byt profitability is sensitive to discounting .
+   • Loyal, repeat customers are a critical driver of overall performance.
+   
+  # Strategic Recommendations :
   • Control high discounting: Limit discounts above 20%, as they consistently reduce profitability despite higher sales volumes.
   
   • Prioritize high-margin categories: Expand and promote Technology products, which contribute over 50% of total profit.
@@ -83,4 +68,5 @@ Key EDA findings  informed the identification of discount-driven profit erosion 
   
   • Capitalize on seasonality: Align promotions and inventory planning with Q3–Q4 peak demand to maximize sales while protecting margins.
 
+  • Customer Behaviour Focus: Strength customer retention stragegies by targeting high-frequency buyers, who contribute disproportionately to total sales.
  
