@@ -38,8 +38,6 @@ The Excel workbook used for data exploration and preparationcan be downloaded [h
    ### Overview of findings
    The business experienced consistent sales and order growth from 2014 to 2017, driven by          increasing customer demand.
 
-   Profitability varied significantly across categories and regions, with Technology and the        West region emerging as key profit contributors.
-   
    Customer analysis revealed extremely high repeat purchasing behavior, indicating strong          customer retention.
 
    Analysis revealed that discounts above 20% consistently reduced profit. with the highest 
@@ -51,7 +49,7 @@ The Excel workbook used for data exploration and preparationcan be downloaded [h
    
    • Stronger sales momentum was observed during the second half of the year (Q3–Q4),                 reflecting seasonal demand patterns.
    
-   • While sales increased consistently,profit growth remained dependent on discount levels,          emphasizing the inportance of controlled proving strategies.
+   • While sales increased consistently,profit growth remained dependent on discount levels,          emphasizing the inportance of controlled pricing strategies.
        ![Sales Trend](Sales_trend.png).
 ### Profit Trend 
    • Profitability improved over time but showed higher volatility than sales.
@@ -60,11 +58,11 @@ The Excel workbook used for data exploration and preparationcan be downloaded [h
      ![High Discount impact](High_discount_impact.png).  
 ### Trend Analytics Insight   
    • Sales growth did not always translate into profit growth, highlighting the importance of margin and discount control.
-### Customer Behaviour 
+### Customer Behavior 
    • The customer base exhibits extremely high repeat purchasing behavior , indicating strong customer retention.
    • Sales are primarily driven by high-frequency buyers, with the Consumer segment representing the largest share of customers.
 ### Key Takeaways
-   • Growth is demand - driven by profitability is sensitive to discounting .
+   • Growth is demand-driven,but profitability is sensitive to discounting .
    
    • Loyal, repeat customers are a critical driver of overall performance.
    
@@ -85,4 +83,7 @@ With nearly all customers being repeat buyers, the business should focus on rete
 
 #### •Capitalize on seasonal demand peaks to maximize returns:
 Sales and profit trends indicate stronger performance during Q3–Q4. Aligning inventory planning, promotional campaigns, and staffing strategies with peak seasonal demand can maximize revenue while maintaining healthy margins.
+
+## Conclusion:
+   This analysis demonstrates how combining sales, profitability,and customer behavior insights enables more sustainable,data-driven business decisions.
   
