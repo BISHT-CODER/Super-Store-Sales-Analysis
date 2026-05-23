@@ -5,7 +5,7 @@ Despite consistent sales growth, the business faces challenges related to profit
 
 This project analyzes and synthesizes Super Store’s historical data using Power BI to uncover key performance trends, identify profitability drivers and risks, and understand customer purchasing behavior. The analysis is designed to support data-driven decision-making and strategic optimization.
 
-### Insights and recommendations are provided across the following key areas:
+## Insights and recommendations are provided across the following key areas:
 
  •Sales Trends Analysis: Evaluation of historical sales patterns, order growth, seasonality, and average order value (AOV).
 
@@ -35,7 +35,7 @@ The Excel workbook used for data exploration and preparationcan be downloaded [h
 
 
  # Executive Summary
-   ### Overview of findings
+   ## Overview of findings
    The business experienced consistent sales and order growth from 2014 to 2017, driven by          increasing customer demand.
 
    Customer analysis revealed extremely high repeat purchasing behavior, indicating strong          customer retention.
@@ -44,24 +44,24 @@ The Excel workbook used for data exploration and preparationcan be downloaded [h
    discount band generating losses , highlighting the importance of controlled discount             strategies.
    ![Executive Summary Dashboard](Sales_profit_overview.png)
 
-### Sales Trend
+## Sales Trend
    • Sales increased steadily from 2014 to 2017, indicating consistent demand growth.
    
    • Stronger sales momentum was observed during the second half of the year (Q3–Q4),                 reflecting seasonal demand patterns.
    
    • While sales increased consistently,profit growth remained dependent on discount levels,          emphasizing the inportance of controlled pricing strategies.
        ![Sales Trend](Sales_trend.png).
-### Profit Trend 
+## Profit Trend 
    • Profitability improved over time but showed higher volatility than sales.
    
    • High discount levels had a negative impact on profit, and in some cases led to loss, even when sales are high.
      ![High Discount impact](High_discount_impact.png).  
-### Trend Analytics Insight   
+## Trend Analytics Insight   
    • Sales growth did not always translate into profit growth, highlighting the importance of margin and discount control.
-### Customer Behavior 
+## Customer Behavior 
    • The customer base exhibits extremely high repeat purchasing behavior , indicating strong customer retention.
    • Sales are primarily driven by high-frequency buyers, with the Consumer segment representing the largest share of customers.
-### Key Takeaways
+## Key Takeaways
    • Growth is demand-driven,but profitability is sensitive to discounting .
    
    • Loyal, repeat customers are a critical driver of overall performance.
@@ -69,19 +69,19 @@ The Excel workbook used for data exploration and preparationcan be downloaded [h
   # Strategic Recommendations :
    Based on the insights uncovered from sales, profitability, and customer behavior analysis, the following recommendations are proposed:
 
-#### •Control excessive discounting to protect margins:
+### •Control excessive discounting to protect margins:
 Analysis shows that discount levels above 20% consistently result in profit erosion and, in some cases, losses despite higher sales volumes. Implement stricter discount thresholds and approval controls to ensure revenue growth remains profitable.
 
-#### •Prioritize high-margin product categories to drive sustainable profit:
+### •Prioritize high-margin product categories to drive sustainable profit:
 Technology products contribute over 50% of total profit, making them the most reliable profit driver. Expanding assortments, targeted promotions, and cross-selling strategies within this category can significantly improve overall profitability.
 
-#### •Improve underperforming regions through localized strategies:
+### •Improve underperforming regions through localized strategies:
 While the West and East regions lead in profitability, the Central and South regions underperform. Applying region-specific pricing, targeted promotions, and optimized logistics can help close the profitability gap.
 
-#### •Leverage strong customer retention and repeat purchasing behavior:
+### •Leverage strong customer retention and repeat purchasing behavior:
 With nearly all customers being repeat buyers, the business should focus on retention-led growth strategies, such as personalized offers, reorder reminders, and loyalty-based incentives, rather than aggressive customer acquisition discounts.
 
-#### •Capitalize on seasonal demand peaks to maximize returns:
+### •Capitalize on seasonal demand peaks to maximize returns:
 Sales and profit trends indicate stronger performance during Q3–Q4. Aligning inventory planning, promotional campaigns, and staffing strategies with peak seasonal demand can maximize revenue while maintaining healthy margins.
 
 ## Conclusion:
